@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/.config/">
+    <File Path=".editorconfig" />
+    <File Path=".gitattributes" />
+    <File Path=".gitignore" />
+    <File Path="LICENSE" />
+    <File Path="NuGet.config" />
+    <File Path="PublishSettings.Platform.targets" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/Feature/" />
+  <Folder Name="/Feature/LayoutService/">
+    <Project Path="src/Feature/LayoutService/platform-9.0.2-10.1/CoreySmith.Feature.LayoutService.9.0.2-10.1.csproj" Id="e9c478e1-5452-4dca-aec7-3c0d917aa8a5" />
+    <Project Path="src/Feature/LayoutService/platform-10.2-10.3/CoreySmith.Feature.LayoutService.10.2-10.3.csproj" Id="3f8a21c7-9d4e-4b6a-8e2f-5c7b1a9d0e43" />
+    <Project Path="src/Feature/LayoutService/platform-10.4-10.5/CoreySmith.Feature.LayoutService.10.4-10.5.csproj" Id="d9a0f7e7-3689-47c8-ae1d-aefda81e6aa1" />
+  </Folder>
+</Solution>
